@@ -8,9 +8,3 @@ This repository contains the code and resources for a research project aimed at 
 The repository is organized as follows:
 
 - **`data/`**: This directory contains the dataset used for training and evaluation. We have used the "Autosegmentation of cultured neurons" dataset, which can be accessed [here](http://www.cellimagelibrary.org/images/CCDB_6843). Please download the dataset from the provided link and follow any usage guidelines or licenses associated with it.
-
-## Getting Started
-
-To use and contribute to this project, follow these steps:
-
-1. Clone the repository to your local machine:
